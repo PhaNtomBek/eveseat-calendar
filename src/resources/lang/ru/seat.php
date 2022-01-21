@@ -96,6 +96,7 @@ return [
     'staging_sys'     => 'Система сбора',
     'staging_info'    => 'Информация о сборе',
     'fleet_commander' => 'Флитком',
+    'staging_system'  => 'Система сбора',
     'character'       => 'Персонаж',
 
     'notification_new_operation'      => '<!channel> :rocket: Создана новая операция !',
